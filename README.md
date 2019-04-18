@@ -9,6 +9,8 @@ What it is:
 - User can choose products from 3 categories (very limite in this mockup), add to cart, (or delete items from cart), 
   and pay with PayPal
   
+** IMPORTANT **What it's NOT: This is NOT an actual web application and should not be used to make actual purchases. Camping World has its own website with REAL products. Again, this is NOT a REAL website.
+  
 What I learned:
 
 - How to create a working website with several pages
